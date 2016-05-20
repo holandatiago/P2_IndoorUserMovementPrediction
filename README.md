@@ -1,12 +1,10 @@
 ### Indoor User Movement Prediction from RSS Data
 
 
-Para rodar, v· atÈ a pasta do projeto e use:
+Para rodar, v√° at√© a pasta do projeto e use:
 
 	$ python MovementAAL_classifier.py
 
-Para isso È necess·rio ter instaladas as bibliotecas ```numpy```, ```pandas``` e ```sklearn```.
+Para isso √© necess√°rio ter instaladas as bibliotecas ```numpy```, ```pandas``` e ```sklearn```.
 
-O programa:
-(1) -> imprimir· na tela o Ìndice AUC referente ao conjunto de teste;
-(2) -> gerar· o arquivo ```MovementAAL_prediction.csv```, que tem as prediÁıes para todos os dados de entrada (tanto para o conjunto de teste como para o de treinamento).
+O programa imprimir√° na tela o √≠ndice AUC referente ao conjunto de teste e gerar√° o arquivo ```MovementAAL_prediction.csv```, que tem as predi√ß√µes para todos os dados de entrada (tanto para o conjunto de teste como para o de treinamento).
